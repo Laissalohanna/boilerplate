@@ -1,0 +1,15 @@
+black
+flake8
+flake8-bugbear
+flake8-comprehensions
+flake8-import-order
+flake8-eradicate
+isort
+mypy
+pytest
+pytest-cov
+bandit
+pre-commit
+types-requests
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9

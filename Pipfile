@@ -4,6 +4,21 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+black = "*"
+flake8 = "*"
+flake8-bugbear = "*"
+flake8-comprehensions = "*"
+flake8-import-order = "*"
+flake8-eradicate = "*"
+isort = "*"
+mypy = "*"
+pytest = "*"
+pytest-cov = "*"
+bandit = "*"
+pre-commit = "*"
+types-requests = "*"
+sqlalchemy = ">=2.0"
+psycopg2-binary = ">=2.9"
 
 [dev-packages]
 
