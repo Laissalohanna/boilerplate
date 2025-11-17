@@ -11,3 +11,5 @@ pytest-cov
 bandit
 pre-commit
 types-requests
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
